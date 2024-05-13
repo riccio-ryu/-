@@ -40,13 +40,13 @@
 ### 영상이 늦게 보일 수 있습니다. 로딩될 때까지 기다려 주세요!
 
 - 홈 화면과 설정화면  
-![home_set](https://github.com/riccio-ryu/portfolio/assets/82762183/43df6304-62e7-40e1-b374-61f743fe4d7a)  
+![home_set](https://github.com/riccio-ryu/ex_company/assets/82762183/16146f27-df44-4e1a-84fd-ab654c55ec83)  
 (홈 화면과 설정화면을 보여준다.)
 
 - 플레이어  
-![pl_s](https://github.com/riccio-ryu/portfolio/assets/82762183/c76ccc6a-6e6a-445e-a8e2-dd9e9c495d6a)  
+![pl_s](https://github.com/riccio-ryu/ex_company/assets/82762183/25c69392-4a45-4e31-bc39-14f0f88a587e)  
 (작품을 플레이하는 화면을 노출한다. 또한 해당 작품의 설명과 다양한 버튼을 보여준다.)
 
 - 보관함과 검색 화면  
-![last_8](https://github.com/riccio-ryu/portfolio/assets/82762183/5178eef8-f981-42b3-ba56-5adc088cb23b)  
+![last_8](https://github.com/riccio-ryu/ex_company/assets/82762183/298beef0-7728-44e6-a063-1ae77516862b)  
 (자신이 보관한 작품들과 작품들로 만든 컬렉션을 보여주고, 검색화면을 보여준다.)
