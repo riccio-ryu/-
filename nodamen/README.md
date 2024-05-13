@@ -12,25 +12,25 @@
 #### 파트론 웹 이미지
 - 기본 검색 화면
 
-![기본 검색 화면](https://github.com/riccio-ryu/ex_company/blob/master/nodamen/%EA%B2%80%EC%83%89_%EA%B8%B0%EB%B3%B8%ED%99%94%EB%A9%B4.png)
+![기본 검색 화면](https://github.com/riccio-ryu/ex_company/blob/master/nodamen/image/%EA%B2%80%EC%83%89_%EA%B8%B0%EB%B3%B8%ED%99%94%EB%A9%B4.png){: width="100" height="100"}
 
 (검색 페이지로, 키워드나 아티스트 또는 작가 등을 검색할 수 있다.)
 
 - 플레이어 플레이 이전
 
-![플레이어 플레이 이전](https://github.com/riccio-ryu/ex_company/blob/master/nodamen/%EC%95%84%ED%8A%B8%EC%9B%8C%ED%81%AC_%ED%94%8C%EB%A0%88%EC%9D%B4%EC%A0%84%ED%99%94%EB%A9%B4.png)
+![플레이어 플레이 이전](https://github.com/riccio-ryu/ex_company/blob/master/nodamen/image/%EC%95%84%ED%8A%B8%EC%9B%8C%ED%81%AC_%ED%94%8C%EB%A0%88%EC%9D%B4%EC%A0%84%ED%99%94%EB%A9%B4.png)
 
 (선택한 컬렉션(작품 묶음)을 플레이 하기 전의 모습으로, 해당 컬렉션의 제목과 설명, 작품들의 리스트를 볼수 있다.)
 
 - 플레이어 플레이
 
-![플레이어 플레이](https://github.com/riccio-ryu/ex_company/blob/master/nodamen/%EC%95%84%ED%8A%B8%EC%9B%8C%ED%81%AC_%ED%94%8C%EB%A0%88%EC%9D%B4%ED%99%94%EB%A9%B4.png)
+![플레이어 플레이](https://github.com/riccio-ryu/ex_company/blob/master/nodamen/image/%EC%95%84%ED%8A%B8%EC%9B%8C%ED%81%AC_%ED%94%8C%EB%A0%88%EC%9D%B4%ED%99%94%EB%A9%B4.png)
 
 (선택한 컬렉션(작품 묶음)을 플레이 하는 모습으로, 해당 컬렉션의 작품의 제목과 설명, 작품들의 리스트를 볼수 있다.)
 
 - 홈 광고
 
-![홈 광고](https://github.com/riccio-ryu/ex_company/blob/master/nodamen/%ED%99%88_%EA%B4%91%EA%B3%A0%ED%99%94%EB%A9%B4.png)
+![홈 광고](https://github.com/riccio-ryu/ex_company/blob/master/nodamen/image/%ED%99%88_%EA%B4%91%EA%B3%A0%ED%99%94%EB%A9%B4.png)
 
 (홈 화면과 광고 메세지)
 
