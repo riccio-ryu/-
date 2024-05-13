@@ -12,25 +12,25 @@
 
 #### 빅인사이트 영상
 - 빅인사이트 운영  
-![빅인사이트 광고주-운영](https://github.com/riccio-ryu/portfolio/assets/82762183/02f382af-81e8-491b-a8ac-adc201c5a449)  
+![빅인사이트 광고주-운영](https://github.com/riccio-ryu/ex_company/assets/82762183/4b353edf-05ac-42c6-afcd-bf307c8a6f0e)  
 (빅인사이트의 운영 페이지로 광고주가 설정한 값을 확인할 수 있고, 상태 변경 등을 할 수 있다.)
 
 - 빅인사이트 광고주-청약하기  
-![빅인사이트 광고주-청약하기](https://github.com/riccio-ryu/portfolio/assets/82762183/48868409-9179-41e1-ac14-a9e6e524b0ab)  
+![빅인사이트 광고주-청약하기](https://github.com/riccio-ryu/ex_company/assets/82762183/9c10d0e9-d3b4-4abf-adc8-ec5fd9e24e92)  
 (빅인사이트의 광고주 전용 페이지로 의뢰의 내용을 차례차례 설정하여 광고주가 의뢰를 신청할 수 있다.)
 
 - 빅인사이트 광고주-선택하기  
-![빅인사이트 광고주-선택하기](https://github.com/riccio-ryu/portfolio/assets/82762183/748663da-949e-4310-a29f-115700ac2925)  
+![빅인사이트 광고주-선택하기](https://github.com/riccio-ryu/ex_company/assets/82762183/9a1f704c-0aa4-4690-860a-2e2bd4a1d2c0)  
 (빅인사이트의 광고주 전용 페이지로 이전에 신청한 의뢰의 내용을 확인하고 수정할 수 있다.)
 
 - 빅인사이트 광고주-모니터링  
-![빅인사이트 광고주-모니터링 20](https://github.com/riccio-ryu/portfolio/assets/82762183/62f2fbae-f1aa-473a-9d47-41f57a2ca00f)  
+![빅인사이트 광고주-모니터링](https://github.com/riccio-ryu/ex_company/assets/82762183/5b6c90c0-45b2-427f-b60c-d5dcc903bddf)  
 (빅인사이트의 광고주 전용 페이지로 의뢰의 내용의 결과물을 살펴볼수 있는 페이지이다. 해당 페이지에서 필터링과 신고를 진행할 수 있다.)
 
 - 빅인사이트 광고주-state  
-![빅인사이트 광고주-state](https://github.com/riccio-ryu/portfolio/assets/82762183/b1199e21-90ea-4f20-afb2-138d4b1b68cd)  
+![빅인사이트 광고주-state](https://github.com/riccio-ryu/ex_company/assets/82762183/4e944c88-60ec-4ccb-a7e8-63d7a5089847)  
 (빅인사이트의 광고주 전용 페이지로 신고진행된 게시물들을 확인할 수 있고, 나머지 신고 진행을 할 수 있다.)
 
 - 빅인사이트 광고주-report  
-![빅인사이트 광고주-report](https://github.com/riccio-ryu/portfolio/assets/82762183/1fb8b80a-76f0-44f2-ac27-76f08ed20902)  
+![빅인사이트 광고주-report](https://github.com/riccio-ryu/ex_company/assets/82762183/9b902e72-46fa-46c1-8d05-2347b572ab21)  
 (빅인사이트의 광고주 전용 페이지로 신고 중인 리스트를 볼 수 있다.)
